@@ -55,16 +55,14 @@
  */
 const brokerProfile = {
   id: crypto.randomUUID(),
-  name: 'Winnetou Soares Martins',
-  CRECI: '64.763-F',
+  name: 'Roderson Dorneles',
+  CRECI: '39.258-F',
   profileImage: '/broker/roderson.png',
   description: {
     title:
-      '"Pai do Bento e marido da Luciana, praticante de artes marciais e nas horas vagas se arrisca a cantar, tocando violão."',
+      'Esposo da Edina e Pai da Helena e da Lívia, sou comunicativo e dedicado, tenho como hobby, o futebol, gosto de estudar e me manter atualizado sobre assuntos variados.',
     paragraph: [
-      'Apresento-me como seu corretor de imóveis, especializado em oferecer mais do que propriedades, vendo informações estratégicas e oportunidades de investimento sólido no dinâmico mercado imobiliário.',
-      'Estou aqui para ser seu guia confiável nessa jornada, proporcionando acesso aos insights valiosos sobre tendências do mercado, recomendações personalizadas para investimentos sólidos e orientação em cada etapa, desde pesquisa até a negociação de sucesso para as partes envolvidas.',
-      'Lembre-se: Na hora de negociar, solicite as certidões negativas necessárias para a realização da escritura.',
+      'Sou formado em Educação Fisica, porém com ampla experiência em vendas, tendo já trabalhado na Oi Empresas, EBGE Marketing e Banco Santander. Hoje Credenciado pelo Creci, tendo Cnai e autorizado como Perito Judicial, tenho mais de 4 anos no mercado Imobiliário e com uma ampla experiência em atendimento ao público de Médio e Alto Padrão.',
     ],
   },
   address: {
@@ -74,12 +72,12 @@ const brokerProfile = {
     city: 'Florianópolis',
     state: 'SC',
   },
-  phone: '(48) 98826-2951 ',
-  email: 'winnetou@rkimoveis.com.br',
+  phone: '(48)99910-6303',
+  email: 'roder@rkimoveis.com.br',
   clientReview: {
     review:
-      'Eu e meu marido adquirimos um imóvel através do corretor Winnetou Martins e fomos muito bem tratados do início até a conclusão da compra. Ele é hábil, competente e atencioso.',
-    client: 'Valzira Souza - Advogada',
+      '',
+    client: '',
   },
   comments: [
     {
