@@ -60,9 +60,10 @@ const brokerProfile = {
   profileImage: '/broker/roderson.png',
   description: {
     title:
-      'Esposo da Edina e Pai da Helena e da Lívia, sou comunicativo e dedicado, tenho como hobby, o futebol, gosto de estudar e me manter atualizado sobre assuntos variados.',
+      'Esposo da Edina, pai da Helena e da Lívia, sou comunicativo e dedicado, tenho como hobby o futebol, gosto de estudar e me manter atualizado sobre assuntos variados.',
     paragraph: [
-      'Sou formado em Educação Fisica, porém com ampla experiência em vendas, tendo já trabalhado na Oi Empresas, EBGE Marketing e Banco Santander. Hoje Credenciado pelo Creci, tendo Cnai e autorizado como Perito Judicial, tenho mais de 4 anos no mercado Imobiliário e com uma ampla experiência em atendimento ao público de Médio e Alto Padrão.',
+      'Sou formado em Educação Física, porém com ampla experiência em vendas, tendo já trabalhado na Oi Empresas, EBGE Marketing e Banco Santander.',
+      'Hoje credenciado pelo CRECI, tendo CNAI e autorizado como Perito Judicial, tenho mais de 4 anos no mercado imobiliário e com uma ampla experiência em atendimento ao público de médio e alto padrão.',
     ],
   },
   address: {
@@ -72,11 +73,10 @@ const brokerProfile = {
     city: 'Florianópolis',
     state: 'SC',
   },
-  phone: '(48)99910-6303',
+  phone: '(48) 99910-6303',
   email: 'roder@rkimoveis.com.br',
   clientReview: {
-    review:
-      '',
+    review: '',
     client: '',
   },
   comments: [
