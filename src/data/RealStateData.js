@@ -95,7 +95,7 @@ const properties = [
     title: 'Holiday',
     region: 'Ingleses',
     description:
-      '**Imóvel em Processo de Individualização de Matrícula**\n\nMaravilhosa cobertura com vista plena para o mar. Localizada na área mais nobre da praia de Ingleses. Investimento com retorno garantido em locação de temporada ou realizar o sonho de morar de frente para o mar. Totalmente mobiliada e decorada com muito bom gosto e detalhes em todos os ambientes.',
+      '**Imóvel em Processo de**\n\n **Individualização de Matrícula**\n\nMaravilhosa cobertura com vista plena para o mar. Localizada na área mais nobre da praia de Ingleses. Investimento com retorno garantido em locação de temporada ou realizar o sonho de morar de frente para o mar. Totalmente mobiliada e decorada com muito bom gosto e detalhes em todos os ambientes.',
     price: 'R$ 2.890.000,00',
     details: {
       square: '300,26 m²',
