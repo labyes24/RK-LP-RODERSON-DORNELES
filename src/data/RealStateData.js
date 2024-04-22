@@ -72,7 +72,7 @@ const properties = [
     title: 'Vl. das Gaivotas',
     region: 'Ingleses',
     description:
-      '**IMÓVEL COM MATRÍCULA**\n\nApartamento a 120m do mar, mobiliado e ensolarado, hobby box e garagem. Ótima oportunidade para quem quer morar próximo ao mar ou investir para locação de temporada. Localizado numa das melhores ruas do bairro, costão norte, condomínio com piscina, elevador, academia, quiosque com churrasqueiras e arborizado.',
+      '**IMÓVEL COM MATRÍCULA**\n\nApartamento a 200m do mar, mobiliado e ensolarado, hobby box e garagem. Ótima oportunidade para quem quer morar próximo ao mar ou investir para locação de temporada. Localizado numa das melhores ruas do bairro, costão norte, condomínio com piscina, elevador, academia, quiosque com churrasqueiras e arborizado.',
     price: 'R$ 615.000,00',
     details: {
       square: '68 m²',
