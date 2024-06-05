@@ -169,7 +169,103 @@ const brokerProfilePT = {
  * @type {BrokerProfile} The broker profile for ES language
  */
 const brokerProfileES = {
-  // Add broker profile ES text here
+  id: crypto.randomUUID(),
+  name: 'Roderson Dorneles',
+  CRECI: '39.258-F',
+  profileImage: '/broker/roderson.png',
+  description: {
+    title:
+      'Esposo de Edina, padre de Helena y Lívia, soy comunicativo y dedicado, mi hobby es el fútbol, ​​me gusta estudiar y mantenerme al día sobre diversos temas.',
+    paragraph: [
+      'Soy Licenciado en Educación Física, pero con amplia experiencia en ventas, habiendo trabajado ya en Oi Empresas, EBGE Marketing y Banco Santander.',
+      'Hoy acreditado por CRECI, contando con CNAI y autorizado como Perito Judicial, cuento con más de 4 años en el mercado inmobiliario y con amplia experiencia en la atención al público de gama media y alta.',
+    ],
+  },
+  address: {
+    street: 'Rua das Gaivotas',
+    number: '1709',
+    district: 'Ingleses',
+    city: 'Florianópolis',
+    state: 'SC',
+  },
+  phone: '(48) 99910-6303',
+  email: 'roder@rkimoveis.com.br',
+  clientReview: {
+    review: '',
+    client: '',
+  },
+  comments: [
+    {
+      id: crypto.randomUUID(),
+      author: 'Crecimiento economico',
+      quote:
+        'Invertir en propiedades en el norte de Floripa significa ser parte de una comunidad en expansión.',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Playa Paraíso',
+      quote:
+        'Quienes viven en Ingleses tienen acceso a un verdadero paraíso tropical: una impresionante playa de aguas cristalinas y arena blanca.',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Infraestructura completa',
+      quote:
+        'Las escuelas, clínicas médicas, supermercados y comercios locales aportan comodidad y practicidad en la vida cotidiana',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Naturaleza preservada',
+      quote:
+        'Las playas de Ingleses y Santinho cuentan con áreas de preservación ambiental. Equilibrio entre desarrollo urbano y naturaleza exuberante.',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Diversidad de Propiedades',
+      quote:
+        'La diversidad de opciones inmobiliarias permite encontrar la vivienda ideal para todos los gustos y necesidades.',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Accesibilidad',
+      quote:
+        'La región está bien conectada, lo que facilita viajar a otras partes de la isla y al continente.',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Deportes acuáticos',
+      quote:
+        'El surf, el stand up paddle y otros deportes acuáticos son populares gracias a las condiciones ideales que ofrece el mar local.',
+    },
+    {
+      id: crypto.randomUUID(),
+      author: 'Calidad de vida',
+      quote:
+        'El ambiente relajado, la naturaleza exuberante y la infraestructura completa contribuyen a una experiencia única.',
+    },
+  ],
+  tips: [
+    {
+      id: crypto.randomUUID(),
+      quote:
+        'Define tu objetivo: a la hora de comprar una propiedad es fundamental entender el propósito, ya que influirá en tus elecciones.',
+    },
+    {
+      id: crypto.randomUUID(),
+      quote:
+        'Puedes tener diferentes objetivos como inversión en Reventa: Investigar la apreciación a largo plazo de la propiedad, ya sea usada o en construcción.',
+    },
+    {
+      id: crypto.randomUUID(),
+      quote:
+        'Si es para alquiler: Considere la demanda de alquileres en la zona y el retorno de la inversión, ya sea rentabilidad anual o estacional.',
+    },
+    {
+      id: crypto.randomUUID(),
+      quote:
+        'Si buscas vivienda prioriza tus necesidades personales, como la proximidad al trabajo y la calidad de vida en la región.',
+    },
+  ],
 }
 
 /**
